@@ -7,7 +7,9 @@
 
 Я начинающий тестировщик. Работал со многими программами: VS (программировал на C#, мог создать собственное приложение с подключенной БД), Unity (создавал на c# 2D платформер), SQL Server Express, баг тренинговыми системами (в техникуме проходил 2 недельную практику на Jira), WinSCP, VirtualBox. Сейчас набираюсь опыта в тестирование, а именно ищу баги на разных сайтах, вступил в VK testers (оформил 4 бага по локализации) и продолжаю искать новые способы набраться опыта
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:trayn352@gmail.com)
+📫 Как связаться со мной: 
+[![Telegram Badge](https://img.shields.io/badge/-@trayn95-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/trayn95)
+[![Gmail Badge](https://img.shields.io/badge/-trayn352@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:trayn352@gmail.com)
 
 ---
 
