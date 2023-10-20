@@ -1,5 +1,4 @@
-[![Header](https://github.com/trayn95/trayn95/blob/main/Asset/Header.png)](https://github.com/trayn95)
-
+# Привет, меня зовут Артем!
 
 ---
 
