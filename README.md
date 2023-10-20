@@ -12,11 +12,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-@trayn95-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/trayn95) [![Gmail Badge](https://img.shields.io/badge/-trayn352@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:trayn352@gmail.com) [![Discord Badge](https://img.shields.io/badge/-__trayn__-black?style=&logo=Discord&logoColor=)](https://discord.com/users/248453176745787393/)
 
----
+### 🔗 Ссылки
 
-
-Latest YouTube Videos
-
-Languages and Tools
-
-Follow me
+- [Мое резюме](https://drive.google.com/file/d/1dyre2KPFk4a8OAEWdyxogUDv5tDUL5zt/view?usp=sharing)
