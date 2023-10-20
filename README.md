@@ -11,7 +11,7 @@
 
 ### 📫 Как связаться со мной: 
 
-[![Telegram Badge](https://img.shields.io/badge/-@trayn95-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/trayn95) [![Gmail Badge](https://img.shields.io/badge/-trayn352@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:trayn352@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@trayn95-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/trayn95) [![Gmail Badge](https://img.shields.io/badge/-trayn352@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:trayn352@gmail.com) [![Discord Badge](https://img.shields.io/badge/-__trayn__-black?style=&logo=Discord&logoColor=)](https://discord.com/users/248453176745787393/)
 </a>
   </div>
 
