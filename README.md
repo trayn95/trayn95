@@ -1,4 +1,4 @@
-[![Header](https://github.com/trayn95/trayn95/blob/main/Asset/Header.png)]
+![Header](https://github.com/trayn95/trayn95/blob/main/Asset/Header.png)
 
 About me
 
