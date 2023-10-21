@@ -21,7 +21,7 @@
 
 VS (программировал на C#, мог создать собственное приложение с подключенной БД), Unity (создавал на c# 2D платформер), SQL Server Express, баг тренинговыми системами (в техникуме проходил 2 недельную практику на Jira), WinSCP, VirtualBox. Сейчас набираюсь опыта в тестирование, а именно ищу баги на разных сайтах, вступил в VK testers (оформил 4 бага по локализации) и продолжаю искать новые способы набраться опыта
 
-<a href="https://github.com/trayn95">VS / C# / SQL /Unity</a> - Мог создать decstop приложение на C# c подключенной БД (SQL) и авторизацией пользователей (разных ролей) + один раз создавал 2D платформер на unity
+<a href="https://github.com/trayn95">VS / C# / SQL / Unity</a> - Мог создать decstop приложение на C# c подключенной БД (SQL) и авторизацией пользователей (разных ролей) + один раз создавал 2D платформер на unity
 
 <a href="https://github.com/trayn95">Jira</a> - Писал дипломную работу по тесированию, в качестве объекта тестирования выступала дипломная работа в виде сайта моего одногруппника + проходил практику 2 недельную практику в компании от учебного заведения (создавал тест-кейсы)
 
@@ -32,10 +32,11 @@ VS (программировал на C#, мог создать собствен
 ### Опыт работы с программами (в картинках)
 
 <div>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" title="vs#" alt="vs" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" title="c#" alt="c#" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" title="sql#" alt="sql" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ru/a/a3/Unity_Logo.png" title="unity" alt="unity" width="40" height="40"/>&nbsp
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-
-
-
-  https://cdn-icons-png.flaticon.com/128/6132/6132221.png
 </div>
+
