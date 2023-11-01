@@ -16,7 +16,8 @@
 
 ### 🔗 Ссылки
 
-- [Мое резюме](https://drive.google.com/file/d/1dyre2KPFk4a8OAEWdyxogUDv5tDUL5zt/view?usp=sharing)
+- [Резюме](https://drive.google.com/file/d/1dyre2KPFk4a8OAEWdyxogUDv5tDUL5zt/view?usp=sharing)
+- [Сертификаты](https://drive.google.com/file/d/1dyre2KPFk4a8OAEWdyxogUDv5tDUL5zt/view?usp=sharing)
 - [Список книг](https://www.livelib.ru/reader/trayn)
 - [Стим аккаунт](https://steamcommunity.com/id/_trayn_/)
 
