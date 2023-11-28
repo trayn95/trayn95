@@ -35,7 +35,7 @@
 
 <a href="https://github.com/trayn95">Jira</a> - Писал дипломную работу по тестированию, в качестве объекта тестирования выступала дипломная работа в виде сайта моего одногруппника + проходил 2 недельную практику в компании от учебного заведения (создавал тест-кейсы)
 
-<a href="https://github.com/trayn95">Youtrack</a> - Создаю баг репорты, которые нахожу на основе чек-листа в программе MappingTbc
+<a href="https://github.com/trayn95">Youtrack</a> - Создаю <a href="https://github.com/trayn95/trayn95/blob/main/add%20material/MappingTbc/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B%20(%D0%B2%D0%B2%D0%B8%D0%B4%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0).png"> баг репорты </a>, которые нахожу на основе <a href="https://github.com/trayn95/trayn95/blob/main/add%20material/MappingTbc/%D0%A7%D0%B5%D0%BA%D1%81%20%D0%BB%D0%B8%D1%81%D1%82%20MappingTbc%20.xlsx">чек-листа </a> в программе MappingTbc
 
 <a href="https://github.com/trayn95"> VS code / HTML / CSS</a>- в техникуме создавал web-страницы. Самое крупное был web-сайт про PowerPoint 5-10 страниц (Единая стилистика, меню по переходам страниц, картинки в тексте)
 
